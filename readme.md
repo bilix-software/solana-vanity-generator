@@ -1,4 +1,7 @@
 # Solana Vanity Keypair Generator
+[![npm version](https://img.shields.io/npm/v/solana-vanity-keypair-generator-js.svg)](https://www.npmjs.com/package/solana-vanity-keypair-generator-js)
+[![npm downloads](https://img.shields.io/npm/dm/solana-vanity-keypair-generator-js.svg)](https://www.npmjs.com/package/solana-vanity-keypair-generator-js)
+[![license](https://img.shields.io/npm/l/solana-vanity-keypair-generator-js.svg)](https://www.npmjs.com/package/solana-vanity-keypair-generator-js)
 
 This package allows you to generate Solana keypairs with custom prefixes and/or suffixes. It utilizes multi-threading to improve performance and provides options for customization.
 
