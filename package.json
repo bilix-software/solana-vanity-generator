@@ -1,0 +1,22 @@
+{
+  "name": "solana-vanity-keypair-generator",
+  "version": "1.0.0",
+  "description": "Generate Solana keypairs with custom prefixes and/or suffixes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "solana",
+    "keypair",
+    "vanity",
+    "address",
+    "generator"
+  ],
+  "author": "BilixSoftware",
+  "license": "MIT",
+  "dependencies": {
+    "@solana/web3.js": "^1.75.0",
+    "bs58": "^5.0.0"
+  }
+}
