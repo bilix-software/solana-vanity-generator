@@ -8,7 +8,7 @@ This package allows you to generate Solana keypairs with custom prefixes and/or 
 ## Installation
 
 ```bash
-npm install solana-vanity-keypair-generator
+npm install solana-vanity-keypair-generator-js
 ```
 
 ## Usage
